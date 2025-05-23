@@ -1,3 +1,6 @@
+<img align="center" src="https://github.com/codeanonie/codeanonie/blob/main/assets/AboutMegif.gif" style="max-width: 100%;">
+
+
 ## Hi there 👋
 
 <!--
