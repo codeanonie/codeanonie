@@ -34,3 +34,15 @@ Frontend	Backend	Tools & Others
 
 ✨ GitHub Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ivikasmeel&show_icons=true&theme=radical" alt="Vikas Meel GitHub Stats" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ivikasmeel&theme=radical" alt="GitHub Streak"/> </p>
+
+
+
+<details>
+    <summary> <h2>📊 My Github Stats</h2></summary>
+ <p align="center">
+    <a href="http://www.github.com/ivikasmeel"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ivikasmeel&stroke=ffffff&background=0D1117&ring=5BCDEC&fire=5BCDEC&currStreakNum=ffffff&currStreakLabel=5BCDEC&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a></p>
+
+ <a href="https://github.com/ivikasmeel"><img alt="Vikas Meel's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ivikasmeel&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/ivikasmeel"><img alt="Vikas Meel's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivikasmeel&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" width="300px"/></a>
+</details>
+
