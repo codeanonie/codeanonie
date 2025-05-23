@@ -1,6 +1,7 @@
 <img align="center" src="https://github.com/codeanonie/codeanonie/blob/main/assets/AboutMegif.gif" style="max-width: 100%;">
 
 
+<img align="right" height="250" width="400" alt="Vikas Meel" src="https://raw.githubusercontent.com/abhiishek-10/abhiishek-10/refs/heads/main/github.gif" />
 # About-Me
 Here's a little rundown about me.
 Hi folks :wave: :relaxed:
