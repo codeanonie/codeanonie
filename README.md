@@ -1,38 +1,34 @@
-<img align="center" src="https://github.com/codeanonie/codeanonie/blob/main/assets/AboutMegif.gif" style="max-width: 100%;">
+<div align="center"> <img src="https://raw.githubusercontent.com/iVikasMeel/iVikasMeel/main/assets/bg.png" alt="Banner" width="100%"/> </div> <p align="center"> <img src="https://komarev.com/ghpvc/?username=ivikasmeel&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/> <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"/> </p> <h1 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="22px">, I'm <a href="https://github.com/ivikasmeel">Vikas Meel</a> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif" width="30"/></h1> <h3 align="center">Front-End Developer | Tech Enthusiast | Lifelong Learner</h3>
+🚀 About Me
+I'm a Front-End Web Developer from Rajasthan, India, passionate about building seamless user experiences on the web. I love working with modern tools and frameworks and am currently exploring the Full Stack Web Development world. I enjoy solving programming challenges, reading about new tech trends, and giving back to the developer community.
+
+<div align="right"> <img src="https://github.com/iVikasMeel/iVikasMeel/blob/main/assets/ivikasmeel.gif" alt="Vikas Meel" height="250"/> </div>
+💡 Fun Facts & Interests
+💻 Exploring new technologies & building side projects
+
+📚 Tech blogger, article reader, and always up for learning
+
+🧠 Favourite line of code: console.log("Hello World");
+
+🌍 Love attending meetups & tech events
+
+🎮 Gamer in free time
+
+🔍 Curious by nature — "Why?" is my favorite word
+
+📂 All my cool work is on GitHub
+
+🛠 Tech Stack
+Frontend	Backend	Tools & Others
+
+📫 Connect With Me
 
 
 
+<!-- Update with real portfolio URL -->
 
-# About-Me
-Here's a little rundown about me.
-Hi folks :wave: :relaxed:
-----
-I'm *Code Anonie*, a Frontend Developer & Indian Freelancer.
-I am currently based in Rajasthan, India. I love to learn about new technologies and how things work.
-I use [Twitter](https://twitter.com/), follow me to learn more about technology & people or you can invite me on [LinkedIn](https://www.linkedin.com/in//)
-If you have a project on which I can contribute, ping me ASAP :running:
+📄 Resume
+👉 Download My Resume <!-- Replace with actual resume link -->
 
-# Skills :octocat:
-## Programming Languages:
-* HTML 5
-* CSS
-* Python
-* JavaScript
-* C++ 14/17
-
-
-## Database:
-* MySQL
-* SQLite
-* SQL Server
-
-# Other Interests
-* Solving Problems
-* Political Science
-* Chess
-* Philosophy
-* Reading
-
-# Want to know more?
-
-[Email me.](mailto:@gmail.com) 
+✨ GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ivikasmeel&show_icons=true&theme=radical" alt="Vikas Meel GitHub Stats" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ivikasmeel&theme=radical" alt="GitHub Streak"/> </p>
