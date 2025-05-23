@@ -2,7 +2,9 @@
 🚀 About Me
 I'm a Front-End Web Developer from Rajasthan, India, passionate about building seamless user experiences on the web. I love working with modern tools and frameworks and am currently exploring the Full Stack Web Development world. I enjoy solving programming challenges, reading about new tech trends, and giving back to the developer community.
 
-<div align="right"> <img src="https://github.com/iVikasMeel/iVikasMeel/blob/main/assets/ivikasmeel.gif" alt="Vikas Meel" height="250"/> </div>
+<div style="float: right; margin-left: 20px;">
+  <img src="https://github.com/iVikasMeel/iVikasMeel/blob/main/assets/ivikasmeel.gif" alt="Vikas Meel" height="250"/>
+</div>
 💡 Fun Facts & Interests
 💻 Exploring new technologies & building side projects
 
