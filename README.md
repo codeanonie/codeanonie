@@ -1,19 +1,36 @@
 <img align="center" src="https://github.com/codeanonie/codeanonie/blob/main/assets/AboutMegif.gif" style="max-width: 100%;">
 
 
-## Hi there 👋
+# About-Me
+Here's a little rundown about me.
+Hi folks :wave: :relaxed:
+----
+I'm *Code Anonie*, a Frontend Developer & Indian Freelancer.
+I am currently based in Rajasthan, India. I love to learn about new technologies and how things work.
+I use [Twitter](https://twitter.com/), follow me to learn more about technology & people or you can invite me on [LinkedIn](https://www.linkedin.com/in//)
+If you have a project on which I can contribute, ping me ASAP :running:
 
-<!--
-**codeanonie/codeanonie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Skills :octocat:
+## Programming Languages:
+* HTML 5
+* CSS
+* Python
+* JavaScript
+* C++ 14/17
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Database:
+* MySQL
+* SQLite
+* SQL Server
+
+# Other Interests
+* Solving Problems
+* Political Science
+* Chess
+* Philosophy
+* Reading
+
+# Want to know more?
+
+[Email me.](mailto:@gmail.com) 
