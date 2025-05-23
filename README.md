@@ -4,7 +4,6 @@
 
 
 # About-Me
-<img align="right" height="250" width="400" alt="Vikas Meel" src="https://raw.githubusercontent.com/abhiishek-10/abhiishek-10/refs/heads/main/github.gif" />
 Here's a little rundown about me.
 Hi folks :wave: :relaxed:
 ----
